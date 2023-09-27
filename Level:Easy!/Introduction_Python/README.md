@@ -10,15 +10,11 @@ Dalam bagian ini akan menjelasi dasar dari python!<br>
 Mengenai Output Python, Cara tulis variable dan Tipe pengetikan python!<br>
 ## **Bagian 02 : Input Python!**<br>
 Mengenai Input Python, Cara penulisan input dan Perintah dapat digunakan di Input<br>
-## **Bagian 03 : Statment(if...)**<br>
-Mengenai If Statment Python, Cara Penulisannya.<br>
-## **Bagian 04 : Statment(else...)**<br>
-Mengenai Else Statment Python, Cara Penulisannya.<br>
-## **Bagian 05 : Statment(elif...), Logical Operator (or...)**<br>
-Mengenai Statment gabungan dari If dan Else, Cara Penulusannya, Dan sebuah kata bantu dalam statment if.<br>
-## **Bagian 06 : Interaksi dengan user!**<br>
+## **Bagian 03 : Statment(if...), Statemnt (else...), Statment (elif...)**<br>
+Mengenai If , else, elif Statment Python, Cara Penulisannya.<br>
+## **Bagian 04 : Interaksi dengan user!**<br>
 Mengenai Bagaimana cara megabungkan semua penjelasan dari bagian 1 sampai bagian 5!<br>
-## **Bagian 07 : Quiz 01 & Crash Case Course 001!**<br>
+## **Bagian 05 : Quiz 01 & Crash Case Course 001!**<br>
 Mengenai Link Kuis dari semuannya dan Cara menyelesaikan sebuah case menggunakan python!<br>
 <br>
 <br>
