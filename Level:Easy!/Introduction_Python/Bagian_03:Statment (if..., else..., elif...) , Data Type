@@ -44,4 +44,4 @@ Itu angka lebih besar dari 2
 <br>
 
 Sebenarnya sama saja dengan multi `if`. Tapi `elif` sebagai menganti agar telihat codemu rapi!<br>
-Selanjutnya... akan membahas Interaksi dengan User!
+Selanjutnya... akan membahas Data Type Numberic yaitu `int` dan `float`!
