@@ -16,7 +16,7 @@ Gunakan Python!<br>
 <br>
 <br>
 Case #002 : *Medium*<br>
-Kamu punya klient yang mau hitung tip dalam restoran dia. Tapi dia telah tetapkan tipnya adalah 20% dari makanan dia. Jadi, Hasil akan keluar dengan bentuk `Float`.<br>
+Kamu punya klient yang mau hitung tip dalam restoran dia. Tapi dia telah tetapkan tipnya adalah 20% dari makanan pelanggan. Jadi, Hasil akan keluar dengan bentuk `Float`.<br>
 Sample Input :<br>
 ```
 50
